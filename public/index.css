@@ -1,0 +1,15 @@
+.input {
+  width: 100%;
+}
+.input--mono {
+  font-family: monospace;
+}
+
+.text {
+  font-family: serif;
+}
+.text--primary {
+  color: #fc0303;
+}
+
+/*# sourceMappingURL=index.css.map */

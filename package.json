@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "sass --watch src/assets/index.scss public/index.css"
+  },
+  "dependencies": {
+    "sass": "^1.49.7"
+  }
+}

@@ -1,0 +1,7 @@
+@use '../theme/colors';
+.text {
+    font-family: serif;
+    &--primary {
+        color: colors.$primary;
+    }
+}
